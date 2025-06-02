@@ -18,12 +18,7 @@ This project is ideal for learning about encryption, Node.js, and web app deploy
 ## 🛠️ How to Use This Project (Step-by-Step Guide)
 
 ### 1.open this text encryption folder in VS CODE
-```sh
-git clone https://github.com/pratikdaddy/text-encryption.git
-cd text-encryption
-
-```
-
+Make sure all the files included in the text encryption main folder should be present when opened  in VS CODE
 ### 2. Install Dependencies
 
 Make sure you have [Node.js](https://nodejs.org/) and all others extensions like live server,installed.  
