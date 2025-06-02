@@ -26,7 +26,7 @@ cd text-encryption
 
 ### 2. Install Dependencies
 
-Make sure you have [Node.js](https://nodejs.org/) installed.  
+Make sure you have [Node.js](https://nodejs.org/) and all others extensions like live server,installed.  
 Then, in your project folder, run:
 
 ```sh
