@@ -4,6 +4,10 @@ A simple, secure web application to encrypt and decrypt text using AES-256 encry
 
 ---
 
+![image](https://github.com/user-attachments/assets/21389d35-f66e-463a-b4bc-dc8dad7212c3)
+![image](https://github.com/user-attachments/assets/432da8d3-64f6-45d4-a554-0a4fba3fb934)
+
+
 ## 📖 Overview
 
 **Secure Text Encryptor** allows you to safely encrypt any plain text and decrypt it back using a strong encryption algorithm (AES-256). The app features a modern, responsive web interface and a Node.js backend.  
@@ -58,11 +62,9 @@ encryption-app/
 ├── cryptoHelper.js       # Encryption/decryption logic
 ├── package.json          # Project metadata and dependencies
 ├── .env                  # Your secret key (not in repo)
-├── public/
-│   └── index.html        # Frontend UI
+│i.html        # Frontend UI
 ```
 
 ---
-
 
 **Developed by Pratik Sharma**
