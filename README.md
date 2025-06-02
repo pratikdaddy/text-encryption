@@ -49,17 +49,4 @@ By default, the app will be available at [http://localhost:3000](http://localhos
 
 ---
 
-## 📦 Project Structure
-
-```
-encryption-app/
-├── app.js                # Main server file (Express backend)
-├── cryptoHelper.js       # Encryption/decryption logic
-├── package.json          # Project metadata and dependencies
-├── .env                  # Your secret key (not in repo)
-│i.html        # Frontend UI
-```
-
----
-
 **Developed by Pratik Sharma**
